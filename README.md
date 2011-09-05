@@ -2,6 +2,10 @@
 
 Client library for Moonshado SMS gateway.
 
+## Installing
+
+    npm install moonshado
+
 ## Example
 
     var moon = require('lib/moonshado.js');
