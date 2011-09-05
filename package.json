@@ -1,0 +1,22 @@
+{
+  "name": "moonshado",
+  "version": "0.0.1",
+  "description": "Client for the Moonshado SMS gateway.",
+  "maintainers": [{
+    "name": "Paul Ingles",
+    "email": "paul@oobaloo.co.uk",
+    "web": "http://oobaloo.co.uk/"
+  }],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/pingles/node-moonshado/blob/master/LICENSE.txt"
+  }],
+  "repositories": [{
+    "type": "git",
+    "url": "http://github.com/pingles/node-moonshado"
+  }],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/moonshado"
+}
